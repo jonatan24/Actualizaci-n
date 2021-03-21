@@ -1,9 +1,0 @@
-{"version_code":205516003,"content":"
-<p>RKDelta Update</p>
-
-
-<l>Bottom Tab Rediseñados</li>
-<l>Nuevo Borde Burbuja</li>
-<l>Nuevas Animaciones</li>
-","url":"https://youtu.be/ue7q59v7m3k"
-}
